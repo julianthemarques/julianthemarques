@@ -3,7 +3,7 @@
  I am web developer from Belo Horizonte/Brasil and my goals are developing landing pages, do operations with database and code solutions for the companies I'm envolved with.
 
 - 🌱 I’m currently work as full-stack area, working with React components and Interfaces with nextJs and typescript. 💼
-- 📫 You can contact me with: [juliano.lima.marques@outlook.com](mailto:juliano.lima.marques@outlook.com) 📧 & my [Linkedin]([https://discord.com/channels/@me](https://www.linkedin.com/in/juliano-marques-2195651b4/)) 
+- 📫 You can contact me with: [juliano.lima.marques@outlook.com](mailto:juliano.lima.marques@outlook.com) 📧 & my [Linkedin](https://discord.com/channels/@me](https://www.linkedin.com/in/juliano-marques-2195651b4/)) 
 - ⚡ Important fact: I am more used and enthusiastic for the front-end area, but can also work with the back end 
 - 🗣️ Languages I'm involved with: Portuguese, english and french.
 
