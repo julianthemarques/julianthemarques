@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently work as full-stack area, working with React components and Interfaces with nextJs and typescript. 💼
 - 📫 You can contact me with: [juliano.lima.marques@outlook.com](mailto:juliano.lima.marques@outlook.com) 📧 & my [Linkedin]([https://discord.com/channels/@me](https://www.linkedin.com/in/juliano-marques-2195651b4/)) 
-- ⚡ Important fact: I am more used and enthusiastic for the front-end area, but can also work with the back end  🤖
+- ⚡ Important fact: I am more used and enthusiastic for the front-end area, but can also work with the back end 
 - 🗣️ Além de melhorar minha programação, procuro sempre melhorar meu inglês e espanhol.
 
 ## My skills 🚀
